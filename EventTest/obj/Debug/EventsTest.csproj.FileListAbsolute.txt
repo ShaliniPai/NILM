@@ -1,0 +1,9 @@
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\EventTest\bin\Debug\EventTest.exe.config
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\EventTest\bin\Debug\EventTest.exe
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\EventTest\bin\Debug\EventTest.pdb
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\EventTest\obj\Debug\EventTest.exe
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\EventTest\obj\Debug\EventTest.pdb
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\EventTest\obj\Debug\EventsTest.csprojResolveAssemblyReference.cache
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\EventTest\bin\Debug\EventTest.exe.config
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\EventTest\obj\Debug\EventTest.exe
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\EventTest\obj\Debug\EventTest.pdb
