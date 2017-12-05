@@ -1,0 +1,9 @@
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\RawDataMultipleTest\bin\Debug\RawDataMultipleTest.exe.config
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\RawDataMultipleTest\bin\Debug\RawDataMultipleTest.exe
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\RawDataMultipleTest\bin\Debug\RawDataMultipleTest.pdb
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\RawDataMultipleTest\obj\Debug\RawDataMultipleTest.exe
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\RawDataMultipleTest\obj\Debug\RawDataMultipleTest.pdb
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\RawDataMultipleTest\obj\Debug\RawDataMultipleTest.csprojResolveAssemblyReference.cache
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\RawDataMultipleTest\bin\Debug\RawDataMultipleTest.exe.config
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\RawDataMultipleTest\obj\Debug\RawDataMultipleTest.exe
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\RawDataMultipleTest\obj\Debug\RawDataMultipleTest.pdb
