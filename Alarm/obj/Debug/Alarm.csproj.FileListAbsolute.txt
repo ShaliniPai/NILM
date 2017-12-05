@@ -1,0 +1,21 @@
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\Alarm\bin\Debug\Alarm.exe
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\Alarm\bin\Debug\Alarm.pdb
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\Alarm\obj\Debug\Alarm.csprojResolveAssemblyReference.cache
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\Alarm\obj\Debug\Alarm.exe
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\Alarm\obj\Debug\Alarm.pdb
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\Alarm\obj\Debug\Alarm.exe
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\Alarm\obj\Debug\Alarm.pdb
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\Alarm\bin\Debug\Alarm.exe
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\Alarm\bin\Debug\Alarm.pdb
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\Alarm\obj\Debug\Alarm.csprojResolveAssemblyReference.cache
+D:\INTERNS\02_NILM\01_SimulatorNILM\Alarm\bin\Debug\Alarm.exe.config
+D:\INTERNS\02_NILM\01_SimulatorNILM\Alarm\obj\Debug\Alarm.exe
+D:\INTERNS\02_NILM\01_SimulatorNILM\Alarm\obj\Debug\Alarm.pdb
+C:\Users\gsu1kor\Desktop\02_NILM\01_SimulatorNILM\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\gsu1kor\Desktop\02_NILM\01_SimulatorNILM\Alarm\obj\Debug\Alarm.exe
+C:\Users\gsu1kor\Desktop\02_NILM\01_SimulatorNILM\Alarm\obj\Debug\Alarm.pdb
+C:\Users\gsu1kor\Desktop\02_NILM\01_SimulatorNILM\Alarm\bin\Debug\Alarm.exe
+C:\Users\gsu1kor\Desktop\02_NILM\01_SimulatorNILM\Alarm\bin\Debug\Alarm.pdb
+C:\Users\gsu1kor\Desktop\02_NILM\01_SimulatorNILM\Alarm\obj\Debug\Alarm.csprojResolveAssemblyReference.cache
