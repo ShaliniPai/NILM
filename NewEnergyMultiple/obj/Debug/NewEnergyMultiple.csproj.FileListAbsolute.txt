@@ -1,0 +1,9 @@
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\NewEnergyMultiple\bin\Debug\NewEnergyMultiple.exe.config
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\NewEnergyMultiple\bin\Debug\NewEnergyMultiple.exe
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\NewEnergyMultiple\bin\Debug\NewEnergyMultiple.pdb
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\NewEnergyMultiple\obj\Debug\NewEnergyMultiple.exe
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\NewEnergyMultiple\obj\Debug\NewEnergyMultiple.pdb
+C:\Users\gsu1kor\Desktop\Working Folder\05_InternIOT\SimulatorNILM\NewEnergyMultiple\obj\Debug\NewEnergyMultiple.csprojResolveAssemblyReference.cache
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\NewEnergyMultiple\bin\Debug\NewEnergyMultiple.exe.config
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\NewEnergyMultiple\obj\Debug\NewEnergyMultiple.exe
+C:\Users\gsu1kor\Desktop\INTERNS\02_NILM\01_SimulatorNILM\NewEnergyMultiple\obj\Debug\NewEnergyMultiple.pdb
